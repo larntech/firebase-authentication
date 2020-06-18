@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1075690217410",
+    "firebase_url": "https://register-d8608.firebaseio.com",
+    "project_id": "register-d8608",
+    "storage_bucket": "register-d8608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075690217410:android:73dd8023daa37418ac405b",
+        "android_client_info": {
+          "package_name": "net.larntech.register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075690217410-8qrhi03g23mde5vluhfp9dflbod6nl1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.larntech.register",
+            "certificate_hash": "e722ac2d06ed2c2846a3dfb89b0257d3e07ea39a"
+          }
+        },
+        {
+          "client_id": "1075690217410-qlophcn41sgp1be8lkv3gt7ncu8al6bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_PYMKEZhSTuJpQ7YtK-V-x8tN7CLC0g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075690217410-qlophcn41sgp1be8lkv3gt7ncu8al6bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
